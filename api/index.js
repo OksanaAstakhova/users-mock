@@ -6,32 +6,32 @@ app.get("/", (req, res) => {
     res.setHeader("Cache-Control", "s-max-age=1, stale-while-revalidate");
     res.json([
         {
-            userEmail: "ivan.ponomarenko@grammarly.com",
+            userEmail: "ivan.ponomarenko@in.com",
             userLocation: "Луганська область",
         },
         {
-            userEmail: "igor.petrenko@grammarly.com",
+            userEmail: "igor.petrenko@in.com",
             userLocation: "Одеська область",
         },
         {
-            userEmail: "olena.tkachenko@grammarly.com",
+            userEmail: "olena.tkachenko@in.com",
             userLocation: "Кіровоградська область",
         },
         {
-            userEmail: "oksana.astakhova@grammarly.com",
+            userEmail: "oksana.astakhova@in.com",
             userLocation: "Сумська область",
         },
-        { userEmail: "sergii.gulenok@grammarly.com", userLocation: "м. Київ" },
+        { userEmail: "sergii.gulenok@in.com", userLocation: "м. Київ" },
         {
-            userEmail: "oleksandr.ponomarov@grammarly.com",
+            userEmail: "oleksandr.ponomarov@in.com",
             userLocation: "м. Київ",
         },
         {
-            userEmail: "oleksii.ponomarov@grammarly.com",
+            userEmail: "oleksii.ponomarov@in.com",
             userLocation: "м. Київ",
         },
         {
-            userEmail: "liza.gorielikova@grammarly.com",
+            userEmail: "liza.gorielikova@in.com",
             userLocation: "Луганська область",
         },
     ]);
