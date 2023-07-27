@@ -1,4 +1,4 @@
-[
+const users = [
     {
         userEmail: "ivan.ponomarenko@in.com",
         userLocation: "Луганська область",
