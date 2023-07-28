@@ -5,13 +5,16 @@
     },
     {
         "userEmail": "igor.petrenko@in.com",
-        "userLocation": "Львівська область"
+        "userLocation": "Одеська область"
     },
     {
         "userEmail": "olena.tkachenko@in.com",
         "userLocation": "Кіровоградська область"
     },
-
+    {
+        "userEmail": "oksana.astakhova@in.com",
+        "userLocation": "Кіровоградська область"
+    },
     { "userEmail": "sergii.gulenok@in.com", "userLocation": "м. Київ" },
     {
         "userEmail": "oleksandr.ponomarov@in.com",
