@@ -1,0 +1,62 @@
+[
+  {
+    "map": {
+      "user_name": "ivan.ponomarenko@in.com",
+      "state": "Kyiv City"
+    }
+  },
+  {
+    "map": {
+      "user_name": "igor.petrenko@in.com",
+      "state": "Kyiv City"
+    }
+  },
+  {
+    "map": {
+      "user_name": "olena.tkachenko@in.com",
+      "state": "Rivne"
+    }
+  },
+  {
+    "map": {
+      "user_name": "oksana.tkachenko@in.com",
+      "state": "Ivano-Frankivsk Oblast"
+    }
+  },
+  {
+    "map": {
+      "user_name": "ivan.koval@in.com",
+      "state": "Zaporiz’ka Oblast’"
+    }
+  },
+  {
+    "map": {
+      "user_name": "liza.machuska@in.com",
+      "state": "Kirovohrads’ka Oblast"
+    }
+  },
+  {
+    "map": {
+      "user_name": "natalya.kovalchuk@in.com",
+      "state": "Kirovohrads’ka Oblast’"
+    }
+  },
+  {
+    "map": {
+      "user_name": "iryna.koval@in.com",
+      "state": "Sums’ka Oblast’"
+    }
+  },
+  {
+    "map": {
+      "user_name": "oleh.panchyshyn@in.com",
+      "state": "Zaporiz’ka Oblast’"
+    }
+  },
+  {
+    "map": {
+      "user_name": "viktor.grytsenko@in.com",
+      "state": "Dnipropetrovs’ka Oblast’"
+    }
+  }
+]
