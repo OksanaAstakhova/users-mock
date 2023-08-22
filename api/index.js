@@ -1,8 +1,8 @@
 const express = require("express");
 const uuid = require("uuid");
-const { JOB_DURATION, DOMAIN, PORT } = require("./data/config");
-const users = require("./data/users.json");
-const { checkAuth } = require("./utils/checkAuth");
+const { JOB_DURATION, DOMAIN, PORT } = require("../data/config");
+const users = require("../data/users.json");
+const { checkAuth } = require("../utils/checkAuth");
 
 const app = express();
 
